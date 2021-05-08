@@ -1,1 +1,1 @@
-## A fim de aprimorar os conhecimentos em JavScript, foi criado um cálculo de IMC.
+## A fim de aprimorar os conhecimentos em JavaScript, foi criado um cálculo de IMC.
